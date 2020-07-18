@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsweetchipsw%2Fsweetchipsw)](https://hits.seeyoufarm.com)
+
+# Hi, I'm Seongwon Hyun 👋
+I'm just trying to test this feature...!! Contents will be filled within a few days. 😄😄
 
 <!--
 **sweetchipsw/sweetchipsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
