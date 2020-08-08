@@ -41,4 +41,5 @@ I am undergraduate student of Sejong university. and I like researching security
 - About : [https://bughunting.io/about/](https://bughunting.io/about/)
 - Blog : [http://blog.sweetchip.kr/](http://blog.sweetchip.kr/) (Every posts are written in Korean)
 - LinkedIn : [https://www.linkedin.com/in/seongwon/](https://www.linkedin.com/in/seongwon/)
+- Github : https://github.com/sweetchipsw
 - Email : sweetchipsw@gmail.com
