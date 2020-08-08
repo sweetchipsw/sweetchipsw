@@ -36,7 +36,7 @@ I am undergraduate student of Sejong university. and I like researching security
 - Python (intermediate)
 - Go (Intermediate)
 
-# 📫 Reach about me
+# 📫 Reach me!
 
 - About : [https://bughunting.io/about/](https://bughunting.io/about/)
 - Blog : [http://blog.sweetchip.kr/](http://blog.sweetchip.kr/) (Every posts are written in Korean)
