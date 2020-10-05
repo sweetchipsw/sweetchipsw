@@ -14,8 +14,8 @@ I am undergraduate student of Sejong university. and I like researching security
 # 🖥️ Work Experience
 
 - Assistant research engineer at Grayhash (2014.09 ~ 2016.04, 2018.02 ~ 2020.04)
-    - Developing frontend and backend of wargame, security education platform for LINE corporation.
-    - Penetration testing(including APT projects) and reviewing some source code for cryptocurrency exchange, multiple services which has 1M+ users and so on.
+    - Developing frontend and backend of wargame, security education platform for LINE Plus.
+    - Penetration testing(including APT projects) and reviewing some source code for cryptocurrency exchange, online game service, multiple services which has 1M+ users and so on.
     - Researching security vulnerability in Browsers and so on.
     - Serving security training for clients.
         - Browser hacking training
