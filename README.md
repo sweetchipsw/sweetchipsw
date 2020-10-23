@@ -24,8 +24,8 @@ I am undergraduate student of Sejong university. and I like researching security
 
 - Researching security vulnerability / Bug bounty
     - Found multiple RCE, LPE vulnerabilities in browsers, kernel drivers and so on.
-    - Check proof of concept code on  [https://github.com/sweetchipsw/vulnerability](https://github.com/sweetchipsw/vulnerability)
-    - Check a list of CVEs that I've got on : [https://bughunting.io/about/](https://bughunting.io/about/)
+    - Check proof of concept code at  [https://github.com/sweetchipsw/vulnerability](https://github.com/sweetchipsw/vulnerability)
+    - Check a list of CVEs that I've got at [https://blog.bughunting.io/about/](https://blog.bughunting.io/about/)
 - Sweetmon
     - Related with 'Researching security vulnerability'  project
     - Monitoring platform for distributed fuzzing project
@@ -39,7 +39,9 @@ I am undergraduate student of Sejong university. and I like researching security
 # 📫 Reach me!
 
 - About : [https://blog.bughunting.io/about](https://blog.bughunting.io/about)
-- Blog : [http://blog.sweetchip.kr/](http://blog.sweetchip.kr/) (Every posts are written in Korean)
+- Security Technical Blog (Deprecated) : [http://blog.sweetchip.kr/](http://blog.sweetchip.kr/) (Every posts were written in Korean)
+- Security Technical Blog : [https://blog.bughunting.io/](https://blog.bughunting.io/)
+- Developement Blog : [https://velog.io/@sweetchip](https://velog.io/@sweetchip)
 - LinkedIn : [https://www.linkedin.com/in/seongwon/](https://www.linkedin.com/in/seongwon/)
 - Github : https://github.com/sweetchipsw
 - Email : sweetchipsw@gmail.com
