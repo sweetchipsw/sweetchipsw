@@ -2,11 +2,11 @@
 
 # Hi, I'm Seongwon Hyun 👋
 
-I am undergraduate student of Sejong university. and I like researching security vulnerabilities and developing web service with django and vue.js.
+I like researching security vulnerabilities and developing web service with django and vue.js.
 
 # 📚 Education
 
-- Computer and Information Security at Sejong University (2014.03 - Current)
+- Computer and Information Security at Sejong University (2014.03 - 2021.08)
 - Trainee at 'Best Of the Best'(a.k.a BOB) program
     - Organized by ‘The Ministry of Science, ICT and Future Planning’ and KITRI(Korea Information Technology Research Institute)
     - Recognized top 10 among 120 trainees.
