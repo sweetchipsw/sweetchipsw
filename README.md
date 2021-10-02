@@ -40,7 +40,7 @@ Python, Go와 Django, Vue를 이용하여 무언가 만드는 것을 좋아합�
 - Kotlin (Beginner)
 - Spring Frameworks (Beginner)
 
-# Languages
+# 🗣️ Languages
 - 한국어
 - 영어
 
