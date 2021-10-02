@@ -72,7 +72,7 @@ Python, Go와 Django, Vue를 이용하여 무언가 만드는 것을 좋아합�
 
 # 🗣️ 언어
 - 한국어 (원어민)
-- 영어 (업무)
+- 영어 (중급, 업무)
 
 # 📫 Reach me!
 - 개발 공부 블로그 : [https://velog.io/@sweetchip](https://velog.io/@sweetchip)
