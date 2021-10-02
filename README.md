@@ -13,8 +13,8 @@ Python, Go와 Django, Vue를 이용하여 무언가 만드는 것을 좋아합�
     - 보안취약점 연구 및 버그바운티 제보 활동
     - 보안 취약점 연구에 필요한 모니터링, 자동화 시스템 제작 및 구축
     - 클라이언트 대상 트레이닝 프로그램 강사
-        - 브라우저 해킹 트레이닝 10회 진행
-
+      - 브라우저 취약점 분석 방법, 브라우저 exploit 작성, mitigation 우회, 브라우저 취약점 발굴 방법
+      - 브라우저 해킹 트레이닝 10회 진행
 
 # 📚 교육
 - 세종대학교 정보보호학과 졸업 (2014.03 - 2021.08)
@@ -27,12 +27,13 @@ Python, Go와 Django, Vue를 이용하여 무언가 만드는 것을 좋아합�
     - Distributed Fuzzing system 구축을 위하여 Fuzzer 모니터링 및 자동 배포 시스템 제작
     - POC 코드 [https://github.com/sweetchipsw/vulnerability](https://github.com/sweetchipsw/vulnerability)
     - CVE 리스트 [https://blog.bughunting.io/about/](https://blog.bughunting.io/about/)
+
 - Sweetmon
     - '보안 취약점 연구 및 버그바운티 참여' 와 관련된 프로젝트
     - Distributed fuzzer 모니터링을 위한 초기 버전
     - [https://github.com/sweetchipsw/sweetmon2](https://github.com/sweetchipsw/sweetmon2)
 
-# ⚡ 좋아하는 프로그램 언어 및 프레임워크
+# ⚡ 좋아하는 프로그래밍 언어 및 프레임워크
 - Python (intermediate)
 - Go (Intermediate)
 - C# (Beginner)
@@ -40,12 +41,11 @@ Python, Go와 Django, Vue를 이용하여 무언가 만드는 것을 좋아합�
 - Kotlin (Beginner)
 - Spring Frameworks (Beginner)
 
-# 🗣️ Languages
+# 🗣️ 언어
 - 한국어
 - 영어
 
 # 📫 Reach me!
-- About : [https://blog.bughunting.io/about](https://blog.bughunting.io/about)
 - 개발 공부 블로그 : [https://velog.io/@sweetchip](https://velog.io/@sweetchip)
 - 보안 공부 블로그 : [https://blog.bughunting.io/](https://blog.bughunting.io/)
 - 보안 공부 블로그(구 블로그) : [http://blog.sweetchip.kr/](http://blog.sweetchip.kr/) (Every posts were written in Korean)
