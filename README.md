@@ -13,7 +13,7 @@ Python, Go와 Django, Vue를 이용하여 무언가 만드는 것을 좋아합�
     - 모의 해킹, 소스코드 리뷰, 모의 APT 침투 프로젝트 참여 (거래소, 온라인게임 등 1M+ 유저 보유사 대상)
     - 보안취약점 연구 및 버그바운티 제보 활동
     - 보안 취약점 연구에 필요한 모니터링, 자동화 시스템 제작 및 구축
-    - 클라이언트 대상 트레이닝 프로그램 강사
+    - 클라이언트 대상 트레이닝 프로그램 강의 진행
       - 브라우저 취약점 분석 방법, 브라우저 exploit 작성, mitigation 우회, 브라우저 취약점 발굴 방법
       - 브라우저 해킹 트레이닝 10회 진행
 
@@ -46,7 +46,7 @@ Python, Go와 Django, Vue를 이용하여 무언가 만드는 것을 좋아합�
 - 화이트햇 컨테스트 - 해커와의 만남 세션 (2016)
 
 # 👍 강의 / 강연
-- K-BOB Security Forum - Weponized zeroday를 이용한 APT 공격 시연
+- K-BOB Security Forum - Weponized zeroday를 이용한 APT 공격 시연 (2014)
 - 한국인터넷진흥원 - 제로데이 버그 헌팅 (2015)
 - 한국인터넷진흥원 - 버그 헌팅에 도움을 주는 Windbg 사용법 (2015)
 - 공주대학교 영재교육원 - How to become a cool security researcher (2017)
