@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsweetchipsw%2Fsweetchipsw)](https://hits.seeyoufarm.com)
 
-# 안녕하세요! 저는 현성원입니다 👋
+# 👋 안녕하세요! 저는 현성원입니다 
 
 security 분야를 공부하는 것을 좋아하고
 
@@ -10,7 +10,7 @@ Python, Go와 Django, Vue를 이용하여 무언가 만드는 것을 좋아합�
 - Grayhash (2014.09 ~ 2016.04, 2018.02 ~ 2020.04)
     - 계열사 라인 플러스에서 임직원 보안 교육 서비스 개발 참여
     - 계열사 라인 플러스에서 워게임 서비스 개발 참여
-    - 모의해킹, 소스코드 리뷰, 모의 APT 침투 프로젝트 참여 (거래소, 온라인게임 등 1M+ 유저 보유사 대상)
+    - 모의 해킹, 소스코드 리뷰, 모의 APT 침투 프로젝트 참여 (거래소, 온라인게임 등 1M+ 유저 보유사 대상)
     - 보안취약점 연구 및 버그바운티 제보 활동
     - 보안 취약점 연구에 필요한 모니터링, 자동화 시스템 제작 및 구축
     - 클라이언트 대상 트레이닝 프로그램 강사
@@ -22,8 +22,8 @@ Python, Go와 Django, Vue를 이용하여 무언가 만드는 것을 좋아합�
 - KITRI 'Best Of the Best' 프로그램 수료
   - 최고인재 Top 10 선정, 미래창조과학부 장관 인증서
 
-# 📚 개인 활동
-- 세종대학교 보안 학술동아리 활동 (SSG, 2014 ~ 2021)
+# ✨ 대학 활동
+- 세종대학교 보안 학술동아리 (SSG, 2014 ~ 2021)
   - 회장 (2017 ~ 2018)
 
 # 💪 개인 프로젝트
@@ -38,20 +38,20 @@ Python, Go와 Django, Vue를 이용하여 무언가 만드는 것을 좋아합�
     - Distributed fuzzer 모니터링을 위한 초기 버전
     - [https://github.com/sweetchipsw/sweetmon2](https://github.com/sweetchipsw/sweetmon2)
 
-# 💪 컨퍼런스 발표
+# 🎤 컨퍼런스 발표
 - Codegate Junior - Music Player Exploit (2013)
 - Codegate - Bug Hunting Challenge (2014)
 - Inc0gnito - Fuzzing For Fun (2014)
 - 화이트햇 컨테스트 - 해커와의 만남 세션 (2014)
 - 화이트햇 컨테스트 - 해커와의 만남 세션 (2016)
 
-# 💪 강의 / 강연
+# 👍 강의 / 강연
 - K-BOB Security Forum - Weponized zeroday를 이용한 APT 공격 시연
 - 한국인터넷진흥원 - 제로데이 버그 헌팅 (2015)
 - 한국인터넷진흥원 - 버그 헌팅에 도움을 주는 Windbg 사용법 (2015)
 - 공주대학교 영재교육원 - How to become a cool security researcher (2017)
 
-# 대회 / 수상
+# 🔥 대회 / 수상
 - 2013 KISA 버그바운티 프로그램 1위
 - 2014 KITRI BOB 프로그램 최고인재 top 10 선정
 - 2015 소프트웨어 개발보안 컨테스트 2위
