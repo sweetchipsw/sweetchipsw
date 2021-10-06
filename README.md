@@ -13,6 +13,8 @@ Python, Go와 Django, Vue를 이용하여 무언가 만드는 것을 좋아합�
     - 모의 해킹, 소스코드 리뷰, 모의 APT 침투 프로젝트 참여 (거래소, 온라인게임 등 1M+ 유저 보유사 대상)
     - 보안취약점 연구 및 버그바운티 제보 활동
     - 보안 취약점 연구에 필요한 모니터링, 자동화 시스템 제작 및 구축
+    - 국내 유명 CTF 문제 출제 및 대회 운영
+      - 출제한 CTF 문제(일부) [https://github.com/sweetchipsw/ctf-probs/tree/master/2015_Codegate](https://github.com/sweetchipsw/ctf-probs/tree/master/2015_Codegate)
     - 클라이언트 대상 트레이닝 프로그램 강의 진행
       - 브라우저 취약점 분석 방법, 브라우저 exploit 작성, mitigation 우회, 브라우저 취약점 발굴 방법
       - 브라우저 해킹 트레이닝 10회 진행
@@ -32,7 +34,6 @@ Python, Go와 Django, Vue를 이용하여 무언가 만드는 것을 좋아합�
     - Distributed Fuzzing system 구축을 위하여 Fuzzer 모니터링 및 자동 배포 시스템 제작
     - POC 코드 [https://github.com/sweetchipsw/vulnerability](https://github.com/sweetchipsw/vulnerability)
     - CVE 리스트 [https://github.com/sweetchipsw/sweetchipsw/blob/master/Bugs.md](https://github.com/sweetchipsw/sweetchipsw/blob/master/Bugs.md)
-    - 출제한 CTF 문제(일부) [https://github.com/sweetchipsw/ctf-probs/tree/master/2015_Codegate](https://github.com/sweetchipsw/ctf-probs/tree/master/2015_Codegate)
 - Sweetmon
     - '보안 취약점 연구 및 버그바운티 참여' 와 관련된 프로젝트
     - Distributed fuzzer 모니터링을 위한 초기 버전
@@ -68,7 +69,7 @@ Python, Go와 Django, Vue를 이용하여 무언가 만드는 것을 좋아합�
 - C# (Beginner)
 - Django (intermediate)
 - Kotlin (Beginner)
-- Spring Frameworks (Beginner)
+- Spring Framework (Beginner)
 
 # 🗣️ 언어
 - 한국어 (원어민)
