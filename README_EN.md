@@ -13,7 +13,10 @@ I like researching security vulnerabilities and developing web service with djan
 
 # 🖥️ Work Experience
 
-- Assistant research engineer at Grayhash (2014.09 ~ 2016.04, 2018.02 ~ 2020.04)
+- Software Engineer at Coinone. Inc (2022.02 ~ )
+    - RESERVED
+
+- Research Engineer at Grayhash (2014.09 ~ 2016.04, 2018.02 ~ 2020.04)
     - Developing frontend and backend of wargame, security education platform for LINE Plus.
     - Penetration testing(including APT projects) and reviewing some source code for cryptocurrency exchange, online game service, multiple services which has 1M+ users and so on.
     - Researching security vulnerability in Browsers and so on.
